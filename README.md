@@ -1,4 +1,4 @@
-# AutomationNet v2.0
+# NetCommander v2.0
 
 **Modern Network Device Automation Tool with GUI**
 
@@ -6,7 +6,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python: 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)
 
-AutomationNet is a powerful Python-based network automation tool designed to configure multiple network devices simultaneously via SSH. Created by **Mahmoud Tolba**, it features a modern graphical user interface, configuration profiles, command templates, and comprehensive reporting capabilities.
+NetCommander is a powerful Python-based network automation tool designed to configure multiple network devices simultaneously via SSH. Created by **Mahmoud Tolba**, it features a modern graphical user interface, configuration profiles, command templates, and comprehensive reporting capabilities.
 
 ## Features
 
@@ -52,7 +52,7 @@ AutomationNet is a powerful Python-based network automation tool designed to con
 #### Linux/macOS
 ```bash
 # Clone or download the repository
-cd AutomationNet
+cd NetCommander
 
 # Run installation script
 chmod +x install.sh
@@ -62,7 +62,7 @@ chmod +x install.sh
 #### Windows
 ```cmd
 # Clone or download the repository
-cd AutomationNet
+cd NetCommander
 
 # Run installation script
 install.bat
@@ -135,7 +135,7 @@ run.bat
 
 ### Command Templates
 
-AutomationNet includes pre-defined templates for common tasks:
+NetCommander includes pre-defined templates for common tasks:
 
 - **VLAN Setup**: Configure multiple VLANs
 - **NTP Configuration**: Set up NTP servers
@@ -157,7 +157,7 @@ Load profiles quickly for repeated tasks.
 ## Project Structure
 
 ```
-AutomationNet/
+NetCommander/
 ├── src/
 │   ├── core/                # Core functionality
 │   │   ├── ip_validator.py  # IP validation
@@ -305,7 +305,7 @@ If you find this project useful, please consider:
 
 **Mahmoud Tolba** - Network Automation Engineer
 
-Specialized in network automation, DevOps, and infrastructure management. AutomationNet was created to simplify bulk network device configuration and management tasks.
+Specialized in network automation, DevOps, and infrastructure management. NetCommander was created to simplify bulk network device configuration and management tasks.
 
 ## Acknowledgments
 
@@ -320,6 +320,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**AutomationNet** - Simplifying network device configuration at scale.
+**NetCommander** - Simplifying network device configuration at scale.
 
 Created by [Mahmoud Tolba](https://github.com/mahmoudtolba)
