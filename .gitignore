@@ -1,0 +1,52 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Application Data
+data/profiles/*.json
+data/logs/*.log
+data/history/*.json
+data/profiles/.key
+
+# C++ Build
+cpp/build/
+cpp/*.o
+cpp/*.so
+bin/fast_ping*.so
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Keep directory structure but ignore contents
+!data/profiles/.gitkeep
+!data/logs/.gitkeep
+!data/history/.gitkeep
+!bin/.gitkeep

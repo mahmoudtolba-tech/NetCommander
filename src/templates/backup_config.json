@@ -1,0 +1,8 @@
+{
+  "name": "Backup Configuration",
+  "description": "Save running config",
+  "commands": [
+    "enable",
+    "copy running-config startup-config"
+  ]
+}

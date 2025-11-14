@@ -1,0 +1,15 @@
+{
+  "name": "VLAN Setup",
+  "description": "Configure multiple VLANs",
+  "commands": [
+    "enable",
+    "conf t",
+    "vlan 10",
+    "name MANAGEMENT",
+    "vlan 20",
+    "name USERS",
+    "vlan 30",
+    "name SERVERS",
+    "exit"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Show Device Info",
+  "description": "Display device information",
+  "commands": [
+    "show version",
+    "show ip interface brief",
+    "show vlan brief",
+    "show running-config"
+  ]
+}
