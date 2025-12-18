@@ -322,4 +322,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **NetCommander** - Simplifying network device configuration at scale.
 
-Created by [Mahmoud Tolba](https://github.com/mahmoudtolba)
+Created by [Mahmoud Tolba](https://github.com/mahmoudtolba-tech)
